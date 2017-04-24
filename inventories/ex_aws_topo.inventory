@@ -1,0 +1,36 @@
+[OSEv3:children]
+masters
+nodes
+
+[OSEv3:vars]
+openshift_docker_additional_registries = "registry.example.com"
+	
+openshift_docker_insecure_registries = "registry.example.com"
+	
+debug_level = 2
+ansible_sudo = False
+ansible_ssh_user = root
+openshift_override_hostname_check = True
+openshift_set_hostname = True
+
+[repo_host]
+ec2-54-245-169-187.us-west-2.compute.amazonaws.com openshift_hostname=ec2-54-245-169-187.us-west-2.compute.amazonaws.com  openshift_public_hostname=ec2-54-245-169-187.us-west-2.compute.amazonaws.com 
+
+[masters]
+ec2-54-187-120-119.us-west-2.compute.amazonaws.com openshift_hostname=ec2-54-187-120-119.us-west-2.compute.amazonaws.com  openshift_public_hostname=ec2-54-187-120-119.us-west-2.compute.amazonaws.com 
+
+[nodes]
+ec2-54-187-120-119.us-west-2.compute.amazonaws.com openshift_hostname=ec2-54-187-120-119.us-west-2.compute.amazonaws.com  openshift_public_hostname=ec2-54-187-120-119.us-west-2.compute.amazonaws.com 
+ec2-54-212-244-138.us-west-2.compute.amazonaws.com openshift_hostname=ec2-54-212-244-138.us-west-2.compute.amazonaws.com  openshift_public_hostname=ec2-54-212-244-138.us-west-2.compute.amazonaws.com 
+ec2-54-245-169-187.us-west-2.compute.amazonaws.com openshift_hostname=ec2-54-245-169-187.us-west-2.compute.amazonaws.com  openshift_public_hostname=ec2-54-245-169-187.us-west-2.compute.amazonaws.com 
+
+[OSEv3]
+ec2-54-187-120-119.us-west-2.compute.amazonaws.com openshift_hostname=ec2-54-187-120-119.us-west-2.compute.amazonaws.com  openshift_public_hostname=ec2-54-187-120-119.us-west-2.compute.amazonaws.com 
+ec2-54-212-244-138.us-west-2.compute.amazonaws.com openshift_hostname=ec2-54-212-244-138.us-west-2.compute.amazonaws.com  openshift_public_hostname=ec2-54-212-244-138.us-west-2.compute.amazonaws.com 
+ec2-54-245-169-187.us-west-2.compute.amazonaws.com openshift_hostname=ec2-54-245-169-187.us-west-2.compute.amazonaws.com  openshift_public_hostname=ec2-54-245-169-187.us-west-2.compute.amazonaws.com 
+
+[all]
+ec2-54-187-120-119.us-west-2.compute.amazonaws.com openshift_hostname=ec2-54-187-120-119.us-west-2.compute.amazonaws.com  openshift_public_hostname=ec2-54-187-120-119.us-west-2.compute.amazonaws.com 
+ec2-54-212-244-138.us-west-2.compute.amazonaws.com openshift_hostname=ec2-54-212-244-138.us-west-2.compute.amazonaws.com  openshift_public_hostname=ec2-54-212-244-138.us-west-2.compute.amazonaws.com 
+ec2-54-245-169-187.us-west-2.compute.amazonaws.com openshift_hostname=ec2-54-245-169-187.us-west-2.compute.amazonaws.com  openshift_public_hostname=ec2-54-245-169-187.us-west-2.compute.amazonaws.com 
+

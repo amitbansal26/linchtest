@@ -1,0 +1,36 @@
+[OSEv3:children]
+masters
+nodes
+
+[OSEv3:vars]
+openshift_docker_additional_registries = "registry.example.com"
+	
+openshift_docker_insecure_registries = "registry.example.com"
+	
+debug_level = 2
+ansible_sudo = False
+ansible_ssh_user = root
+openshift_override_hostname_check = True
+openshift_set_hostname = True
+
+[repo_host]
+146.148.64.34 openshift_hostname=146.148.64.34  openshift_public_hostname=146.148.64.34 
+
+[masters]
+35.184.101.216 openshift_hostname=35.184.101.216  openshift_public_hostname=35.184.101.216 
+
+[nodes]
+146.148.64.34 openshift_hostname=146.148.64.34  openshift_public_hostname=146.148.64.34 
+104.197.61.81 openshift_hostname=104.197.61.81  openshift_public_hostname=104.197.61.81 
+35.184.101.216 openshift_hostname=35.184.101.216  openshift_public_hostname=35.184.101.216 
+
+[OSEv3]
+146.148.64.34 openshift_hostname=146.148.64.34  openshift_public_hostname=146.148.64.34 
+104.197.61.81 openshift_hostname=104.197.61.81  openshift_public_hostname=104.197.61.81 
+35.184.101.216 openshift_hostname=35.184.101.216  openshift_public_hostname=35.184.101.216 
+
+[all]
+146.148.64.34 openshift_hostname=146.148.64.34  openshift_public_hostname=146.148.64.34 
+104.197.61.81 openshift_hostname=104.197.61.81  openshift_public_hostname=104.197.61.81 
+35.184.101.216 openshift_hostname=35.184.101.216  openshift_public_hostname=35.184.101.216 
+
