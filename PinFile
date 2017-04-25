@@ -17,10 +17,11 @@ openstack:
           actions:
             - test.js
     preup:              # sub-state is specified
-        - name: do_something
-          type: shell
+        - name: test_something
+          action_manager: testact.py
+          type: testtype
           actions:
-            - echo " this is post up operation Hello hai how r u ?"
+            - "This does nothing"
         - name: post_up
           type: ansible
           context: false
