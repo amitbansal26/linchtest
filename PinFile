@@ -6,14 +6,17 @@ openstack:
     postup:              # sub-state is specified
         - name: do_something
           type: python
+          context: false
           actions:
             - test.py
         - name: testruby
           type: ruby
+          context: false
           actions:
             - test.rb
         - name: testnode
           type: node
+          context: true
           actions:
             - test.js
     preup:              # sub-state is specified
@@ -28,15 +31,15 @@ openstack:
           actions:
             - playbook: test_playbook.yaml
               vars: test_var.yaml
-              extra_vars: { "testvar": "world"}
+              extra_vars: { "test_var": "preup task"}
     postdown:
         - name: do_something
           type: shell
           actions:
-            - echo " this is post up operation Hello hai how r u ?"
+            - echo " this is post down operation Hello hai how r u ?"
         - name: postdown_task
           type: ansible
           actions:
             - playbook: test_playbook.yaml
               vars: test_var.yaml
-              extra_vars: { "testvar": "world"}
+              extra_vars: { "test_var": "postdowntask"}
