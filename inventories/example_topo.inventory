@@ -14,23 +14,23 @@ openshift_override_hostname_check = True
 openshift_set_hostname = True
 
 [repo_host]
-10.8.172.245 openshift_hostname=10.8.172.245  openshift_public_hostname=10.8.172.245 
+10.8.172.88 openshift_hostname=10.8.172.88  openshift_public_hostname=10.8.172.88 
 
 [masters]
-10.8.175.77 openshift_hostname=10.8.175.77  openshift_public_hostname=10.8.175.77 
+10.8.172.43 openshift_hostname=10.8.172.43  openshift_public_hostname=10.8.172.43 
 
 [nodes]
 10.8.172.245 openshift_hostname=10.8.172.245  openshift_public_hostname=10.8.172.245 
-10.8.174.97 openshift_hostname=10.8.174.97  openshift_public_hostname=10.8.174.97 
-10.8.175.77 openshift_hostname=10.8.175.77  openshift_public_hostname=10.8.175.77 
+10.8.172.43 openshift_hostname=10.8.172.43  openshift_public_hostname=10.8.172.43 
+10.8.172.88 openshift_hostname=10.8.172.88  openshift_public_hostname=10.8.172.88 
 
 [OSEv3]
 10.8.172.245 openshift_hostname=10.8.172.245  openshift_public_hostname=10.8.172.245 
-10.8.174.97 openshift_hostname=10.8.174.97  openshift_public_hostname=10.8.174.97 
-10.8.175.77 openshift_hostname=10.8.175.77  openshift_public_hostname=10.8.175.77 
+10.8.172.43 openshift_hostname=10.8.172.43  openshift_public_hostname=10.8.172.43 
+10.8.172.88 openshift_hostname=10.8.172.88  openshift_public_hostname=10.8.172.88 
 
 [all]
 10.8.172.245 openshift_hostname=10.8.172.245  openshift_public_hostname=10.8.172.245 
-10.8.174.97 openshift_hostname=10.8.174.97  openshift_public_hostname=10.8.174.97 
-10.8.175.77 openshift_hostname=10.8.175.77  openshift_public_hostname=10.8.175.77 
-localhost
+10.8.172.43 openshift_hostname=10.8.172.43  openshift_public_hostname=10.8.172.43 
+10.8.172.88 openshift_hostname=10.8.172.88  openshift_public_hostname=10.8.172.88 
+

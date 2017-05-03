@@ -1,0 +1,228 @@
+DEBUG 2017-05-03 11:04:10,285 ctx.workspace: /home/srallaba/workspace/venvs/hooksdev/linchtest
+DEBUG 2017-05-03 11:04:10,298 from_api: True
+DEBUG 2017-05-03 11:04:10,299 STATE - target: openstack, action: up
+DEBUG 2017-05-03 11:04:42,485 ctx.workspace: /home/srallaba/workspace/venvs/hooksdev/linchtest
+DEBUG 2017-05-03 11:04:42,495 from_api: True
+DEBUG 2017-05-03 11:04:42,495 STATE - target: openstack, action: up
+DEBUG 2017-05-03 13:49:00,837 ctx.workspace: /home/srallaba/workspace/venvs/hooksdev/linchtest
+DEBUG 2017-05-03 13:49:00,844 from_api: True
+DEBUG 2017-05-03 13:49:00,844 STATE - target: openstack, action: up
+DEBUG 2017-05-03 13:54:06,003 ctx.workspace: /home/srallaba/workspace/venvs/hooksdev/linchtest
+DEBUG 2017-05-03 14:01:13,899 ctx.workspace: /home/srallaba/workspace/venvs/hooksdev/linchtest
+DEBUG 2017-05-03 14:01:43,562 ctx.workspace: /home/srallaba/workspace/venvs/hooksdev/linchtest
+DEBUG 2017-05-03 14:01:44,472 from_api: True
+DEBUG 2017-05-03 14:01:44,473 STATE - target: openstack, action: up
+DEBUG 2017-05-03 14:02:02,173 ctx.workspace: /home/srallaba/workspace/venvs/hooksdev/linchtest
+DEBUG 2017-05-03 14:02:06,620 from_api: True
+DEBUG 2017-05-03 14:02:06,620 STATE - target: openstack, action: up
+DEBUG 2017-05-03 14:02:10,900 ctx.workspace: /home/srallaba/workspace/venvs/hooksdev/linchtest
+DEBUG 2017-05-03 14:02:31,042 from_api: True
+DEBUG 2017-05-03 14:02:57,370 STATE - target: openstack, action: up
+DEBUG 2017-05-03 14:09:32,826 ctx.workspace: /home/srallaba/workspace/venvs/hooksdev/linchtest
+DEBUG 2017-05-03 14:09:34,952 from_api: True
+DEBUG 2017-05-03 14:09:34,953 STATE - target: openstack, action: up
+DEBUG 2017-05-03 14:09:34,953 State change initiated
+DEBUG 2017-05-03 14:15:31,070 ctx.workspace: /home/srallaba/workspace/venvs/hooksdev/linchtest
+DEBUG 2017-05-03 14:15:38,856 from_api: True
+DEBUG 2017-05-03 14:15:38,857 STATE - target: openstack, action: up
+DEBUG 2017-05-03 14:15:38,858 State change initiated
+DEBUG 2017-05-03 14:21:51,119 ctx.workspace: /home/srallaba/workspace/venvs/hooksdev/linchtest
+DEBUG 2017-05-03 14:21:53,810 from_api: True
+DEBUG 2017-05-03 14:21:53,810 STATE - target: openstack, action: up
+DEBUG 2017-05-03 14:21:53,811 State change initiated
+DEBUG 2017-05-03 14:22:17,609 ctx.workspace: /home/srallaba/workspace/venvs/hooksdev/linchtest
+DEBUG 2017-05-03 14:22:27,133 from_api: True
+DEBUG 2017-05-03 14:22:27,134 STATE - target: openstack, action: up
+DEBUG 2017-05-03 14:22:27,135 State change initiated
+DEBUG 2017-05-03 14:22:56,895 ctx.workspace: /home/srallaba/workspace/venvs/hooksdev/linchtest
+DEBUG 2017-05-03 14:23:00,940 from_api: True
+DEBUG 2017-05-03 14:23:00,941 STATE - target: openstack, action: up
+DEBUG 2017-05-03 14:23:00,942 State change initiated
+DEBUG 2017-05-03 14:27:26,908 ctx.workspace: /home/srallaba/workspace/venvs/hooksdev/linchtest
+DEBUG 2017-05-03 14:27:30,171 from_api: True
+DEBUG 2017-05-03 14:27:30,173 STATE - target: openstack, action: up
+DEBUG 2017-05-03 14:27:30,173 State change initiated
+INFO 2017-05-03 14:27:30,173 State change triggered in linchpin API
+INFO 2017-05-03 14:27:30,174 Observed State in LinchpinHooks :: preup
+INFO 2017-05-03 14:27:30,174 No hooks found for current target
+DEBUG 2017-05-03 14:27:30,174 State change initiated
+DEBUG 2017-05-03 14:27:42,481 ctx.workspace: /home/srallaba/workspace/venvs/hooksdev/linchtest
+DEBUG 2017-05-03 14:27:50,443 from_api: True
+DEBUG 2017-05-03 14:27:50,444 STATE - target: openstack, action: up
+DEBUG 2017-05-03 14:27:50,445 State change initiated
+INFO 2017-05-03 14:27:50,445 State change triggered in linchpin API
+INFO 2017-05-03 14:27:50,445 Observed State in LinchpinHooks :: preup
+INFO 2017-05-03 14:27:50,445 No hooks found for current target
+DEBUG 2017-05-03 14:27:50,446 State change initiated
+DEBUG 2017-05-03 14:39:23,288 ctx.workspace: /home/srallaba/workspace/venvs/hooksdev/linchtest
+DEBUG 2017-05-03 14:39:35,282 from_api: True
+DEBUG 2017-05-03 14:39:44,851 STATE - target: openstack, action: up
+DEBUG 2017-05-03 14:39:54,690 State change initiated
+INFO 2017-05-03 14:39:54,691 State change triggered in linchpin API
+INFO 2017-05-03 14:39:54,692 Observed State in LinchpinHooks :: preup
+DEBUG 2017-05-03 14:39:59,418 State change initiated
+INFO 2017-05-03 14:39:59,419 State change triggered in linchpin API
+INFO 2017-05-03 14:39:59,420 Observed State in LinchpinHooks :: postup
+DEBUG 2017-05-03 14:40:02,622 ctx.workspace: /home/srallaba/workspace/venvs/hooksdev/linchtest
+DEBUG 2017-05-03 14:40:03,816 from_api: True
+DEBUG 2017-05-03 14:40:03,819 STATE - target: openstack, action: up
+DEBUG 2017-05-03 14:40:03,820 State change initiated
+INFO 2017-05-03 14:40:03,820 State change triggered in linchpin API
+INFO 2017-05-03 14:40:03,820 Observed State in LinchpinHooks :: preup
+DEBUG 2017-05-03 14:40:04,439 State change initiated
+INFO 2017-05-03 14:40:04,440 State change triggered in linchpin API
+INFO 2017-05-03 14:40:04,443 Observed State in LinchpinHooks :: postup
+DEBUG 2017-05-03 14:51:07,224 ctx.workspace: /home/srallaba/workspace/venvs/hooksdev/linchtest
+DEBUG 2017-05-03 14:51:07,232 from_api: True
+DEBUG 2017-05-03 14:51:07,232 STATE - target: openstack, action: up
+DEBUG 2017-05-03 14:51:07,232 State change initiated
+INFO 2017-05-03 14:51:07,232 State change triggered in linchpin API
+INFO 2017-05-03 14:51:07,232 Observed State in LinchpinHooks :: preup
+DEBUG 2017-05-03 14:51:07,896 State change initiated
+INFO 2017-05-03 14:51:07,896 State change triggered in linchpin API
+INFO 2017-05-03 14:51:07,896 Observed State in LinchpinHooks :: postup
+DEBUG 2017-05-03 15:19:59,459 ctx.workspace: /home/srallaba/workspace/venvs/hooksdev/linchtest
+DEBUG 2017-05-03 15:19:59,468 from_api: True
+DEBUG 2017-05-03 15:19:59,469 STATE - target: openstack, action: up
+DEBUG 2017-05-03 15:19:59,469 State change initiated
+DEBUG 2017-05-03 15:20:27,186 ctx.workspace: /home/srallaba/workspace/venvs/hooksdev/linchtest
+DEBUG 2017-05-03 15:20:27,193 from_api: True
+DEBUG 2017-05-03 15:20:27,194 STATE - target: openstack, action: up
+DEBUG 2017-05-03 15:20:27,194 State change initiated
+INFO 2017-05-03 15:20:27,194 State change triggered in linchpin API
+INFO 2017-05-03 15:20:27,194 Observed State in LinchpinHooks :: preup
+DEBUG 2017-05-03 15:20:27,831 State change initiated
+INFO 2017-05-03 15:20:27,831 State change triggered in linchpin API
+INFO 2017-05-03 15:20:27,831 Observed State in LinchpinHooks :: postup
+DEBUG 2017-05-03 15:25:13,887 ctx.workspace: /home/srallaba/workspace/venvs/hooksdev/linchtest
+DEBUG 2017-05-03 15:25:13,896 from_api: True
+DEBUG 2017-05-03 15:25:13,896 STATE - target: openstack, action: up
+DEBUG 2017-05-03 15:25:13,897 State change initiated
+INFO 2017-05-03 15:25:13,897 State change triggered in linchpin API
+INFO 2017-05-03 15:25:13,897 Observed State in LinchpinHooks :: preup
+DEBUG 2017-05-03 15:25:14,587 State change initiated
+INFO 2017-05-03 15:25:14,588 State change triggered in linchpin API
+INFO 2017-05-03 15:25:14,588 Observed State in LinchpinHooks :: postup
+DEBUG 2017-05-03 16:35:50,358 ctx.workspace: /home/srallaba/workspace/venvs/hooksdev/linchtest
+DEBUG 2017-05-03 16:35:50,367 from_api: True
+DEBUG 2017-05-03 16:35:50,367 STATE - target: openstack, action: up
+DEBUG 2017-05-03 16:35:50,368 State change initiated
+INFO 2017-05-03 16:35:50,368 State change triggered in linchpin API
+INFO 2017-05-03 16:35:50,368 Observed State in LinchpinHooks :: preup
+DEBUG 2017-05-03 16:35:54,040 State change initiated
+INFO 2017-05-03 16:35:54,040 State change triggered in linchpin API
+INFO 2017-05-03 16:35:54,040 Observed State in LinchpinHooks :: postup
+DEBUG 2017-05-03 16:41:12,655 ctx.workspace: /home/srallaba/workspace/venvs/hooksdev/linchtest
+DEBUG 2017-05-03 16:41:12,662 from_api: True
+DEBUG 2017-05-03 16:41:12,662 STATE - target: openstack, action: up
+DEBUG 2017-05-03 16:41:12,663 State change initiated
+INFO 2017-05-03 16:41:12,663 State change triggered in linchpin API
+INFO 2017-05-03 16:41:12,663 Observed State in LinchpinHooks :: preup
+DEBUG 2017-05-03 16:41:15,788 State change initiated
+INFO 2017-05-03 16:41:15,789 State change triggered in linchpin API
+INFO 2017-05-03 16:41:15,789 Observed State in LinchpinHooks :: postup
+DEBUG 2017-05-03 16:41:42,427 ctx.workspace: /home/srallaba/workspace/venvs/hooksdev/linchtest
+DEBUG 2017-05-03 16:41:42,435 from_api: True
+DEBUG 2017-05-03 16:41:42,435 STATE - target: openstack, action: up
+DEBUG 2017-05-03 16:41:42,435 State change initiated
+INFO 2017-05-03 16:41:42,435 State change triggered in linchpin API
+INFO 2017-05-03 16:41:42,435 Observed State in LinchpinHooks :: preup
+DEBUG 2017-05-03 16:41:46,034 State change initiated
+INFO 2017-05-03 16:41:46,034 State change triggered in linchpin API
+INFO 2017-05-03 16:41:46,034 Observed State in LinchpinHooks :: postup
+DEBUG 2017-05-03 16:43:25,298 ctx.workspace: /home/srallaba/workspace/venvs/hooksdev/linchtest
+DEBUG 2017-05-03 16:43:25,306 from_api: True
+DEBUG 2017-05-03 16:43:25,306 STATE - target: openstack, action: up
+DEBUG 2017-05-03 16:43:25,306 State change initiated
+INFO 2017-05-03 16:43:25,306 State change triggered in linchpin API
+INFO 2017-05-03 16:43:25,306 Observed State in LinchpinHooks :: preup
+DEBUG 2017-05-03 16:44:50,192 State change initiated
+INFO 2017-05-03 16:44:50,193 State change triggered in linchpin API
+INFO 2017-05-03 16:44:50,193 Observed State in LinchpinHooks :: postup
+DEBUG 2017-05-03 16:47:28,094 ctx.workspace: /home/srallaba/workspace/venvs/hooksdev/linchtest
+DEBUG 2017-05-03 16:47:28,101 from_api: True
+DEBUG 2017-05-03 16:47:28,102 STATE - target: openstack, action: up
+DEBUG 2017-05-03 16:47:28,102 State change initiated
+INFO 2017-05-03 16:47:28,102 State change triggered in linchpin API
+INFO 2017-05-03 16:47:28,102 Observed State in LinchpinHooks :: preup
+DEBUG 2017-05-03 16:49:22,576 State change initiated
+INFO 2017-05-03 16:49:22,576 State change triggered in linchpin API
+INFO 2017-05-03 16:49:22,576 Observed State in LinchpinHooks :: postup
+DEBUG 2017-05-03 16:52:13,162 ctx.workspace: /home/srallaba/workspace/venvs/hooksdev/linchtest
+DEBUG 2017-05-03 16:52:13,170 from_api: True
+DEBUG 2017-05-03 16:52:13,170 STATE - target: openstack, action: destroy
+DEBUG 2017-05-03 16:52:13,170 State change initiated
+INFO 2017-05-03 16:52:13,170 State change triggered in linchpin API
+INFO 2017-05-03 16:52:13,170 Observed State in LinchpinHooks :: predestroy
+INFO 2017-05-03 16:52:13,170 predestroy State hook not found in PinFile
+DEBUG 2017-05-03 16:53:19,261 State change initiated
+INFO 2017-05-03 16:53:19,262 State change triggered in linchpin API
+INFO 2017-05-03 16:53:19,262 Observed State in LinchpinHooks :: postdestroy
+INFO 2017-05-03 16:53:19,262 postdestroy State hook not found in PinFile
+DEBUG 2017-05-03 16:57:36,114 ctx.workspace: /home/srallaba/workspace/venvs/hooksdev/linchtest
+DEBUG 2017-05-03 16:57:36,121 from_api: True
+DEBUG 2017-05-03 16:57:36,122 STATE - target: openstack, action: up
+DEBUG 2017-05-03 16:57:36,122 State change initiated
+INFO 2017-05-03 16:57:36,122 State change triggered in linchpin API
+INFO 2017-05-03 16:57:36,122 Observed State in LinchpinHooks :: preup
+DEBUG 2017-05-03 16:57:39,133 State change initiated
+INFO 2017-05-03 16:57:39,133 State change triggered in linchpin API
+INFO 2017-05-03 16:57:39,133 Observed State in LinchpinHooks :: postup
+DEBUG 2017-05-03 16:57:41,245 ctx.workspace: /home/srallaba/workspace/venvs/hooksdev/linchtest
+DEBUG 2017-05-03 16:57:41,252 from_api: True
+DEBUG 2017-05-03 16:57:41,252 STATE - target: openstack, action: up
+DEBUG 2017-05-03 16:57:41,252 State change initiated
+INFO 2017-05-03 16:57:41,252 State change triggered in linchpin API
+INFO 2017-05-03 16:57:41,253 Observed State in LinchpinHooks :: preup
+DEBUG 2017-05-03 16:57:44,254 State change initiated
+INFO 2017-05-03 16:57:44,255 State change triggered in linchpin API
+INFO 2017-05-03 16:57:44,256 Observed State in LinchpinHooks :: postup
+DEBUG 2017-05-03 16:57:55,144 ctx.workspace: /home/srallaba/workspace/venvs/hooksdev/linchtest
+DEBUG 2017-05-03 16:57:55,152 from_api: True
+DEBUG 2017-05-03 16:57:55,152 STATE - target: openstack, action: up
+DEBUG 2017-05-03 16:57:55,152 State change initiated
+INFO 2017-05-03 16:57:55,152 State change triggered in linchpin API
+INFO 2017-05-03 16:57:55,152 Observed State in LinchpinHooks :: preup
+DEBUG 2017-05-03 16:57:58,790 State change initiated
+INFO 2017-05-03 16:57:58,790 State change triggered in linchpin API
+INFO 2017-05-03 16:57:58,790 Observed State in LinchpinHooks :: postup
+DEBUG 2017-05-03 17:05:10,150 ctx.workspace: /home/srallaba/workspace/venvs/hooksdev/linchtest
+DEBUG 2017-05-03 17:05:10,158 from_api: True
+DEBUG 2017-05-03 17:05:10,158 STATE - target: openstack, action: up
+DEBUG 2017-05-03 17:05:10,158 State change initiated
+INFO 2017-05-03 17:05:10,158 State change triggered in linchpin API
+INFO 2017-05-03 17:05:10,158 Observed State in LinchpinHooks :: preup
+DEBUG 2017-05-03 17:07:02,347 State change initiated
+INFO 2017-05-03 17:07:02,347 State change triggered in linchpin API
+INFO 2017-05-03 17:07:02,347 Observed State in LinchpinHooks :: postup
+DEBUG 2017-05-03 17:07:30,450 ctx.workspace: /home/srallaba/workspace/venvs/hooksdev/linchtest
+DEBUG 2017-05-03 17:07:30,458 from_api: True
+DEBUG 2017-05-03 17:07:30,458 STATE - target: openstack, action: destroy
+DEBUG 2017-05-03 17:07:30,458 State change initiated
+INFO 2017-05-03 17:07:30,458 State change triggered in linchpin API
+INFO 2017-05-03 17:07:30,458 Observed State in LinchpinHooks :: predestroy
+INFO 2017-05-03 17:07:30,458 predestroy State hook not found in PinFile
+DEBUG 2017-05-03 17:08:43,421 State change initiated
+INFO 2017-05-03 17:08:43,423 State change triggered in linchpin API
+INFO 2017-05-03 17:08:43,423 Observed State in LinchpinHooks :: postdestroy
+INFO 2017-05-03 17:08:43,423 postdestroy State hook not found in PinFile
+DEBUG 2017-05-03 17:20:35,272 ctx.workspace: /home/srallaba/workspace/venvs/hooksdev/linchtest
+DEBUG 2017-05-03 17:20:35,280 from_api: True
+DEBUG 2017-05-03 17:20:35,280 STATE - target: openstack, action: up
+DEBUG 2017-05-03 17:20:35,280 State change initiated
+INFO 2017-05-03 17:20:35,280 State change triggered in linchpin API
+INFO 2017-05-03 17:20:35,280 Observed State in LinchpinHooks :: preup
+DEBUG 2017-05-03 17:22:00,167 State change initiated
+INFO 2017-05-03 17:22:00,168 State change triggered in linchpin API
+INFO 2017-05-03 17:22:00,168 Observed State in LinchpinHooks :: postup
+DEBUG 2017-05-03 17:22:31,632 ctx.workspace: /home/srallaba/workspace/venvs/hooksdev/linchtest
+DEBUG 2017-05-03 17:22:31,639 from_api: True
+DEBUG 2017-05-03 17:22:31,640 STATE - target: openstack, action: destroy
+DEBUG 2017-05-03 17:22:31,640 State change initiated
+INFO 2017-05-03 17:22:31,640 State change triggered in linchpin API
+INFO 2017-05-03 17:22:31,640 Observed State in LinchpinHooks :: predestroy
+INFO 2017-05-03 17:22:31,640 predestroy State hook not found in PinFile
+DEBUG 2017-05-03 17:23:38,910 State change initiated
+INFO 2017-05-03 17:23:38,911 State change triggered in linchpin API
+INFO 2017-05-03 17:23:38,911 Observed State in LinchpinHooks :: postdestroy
+INFO 2017-05-03 17:23:38,911 postdestroy State hook not found in PinFile

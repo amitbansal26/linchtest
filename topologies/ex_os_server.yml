@@ -1,5 +1,5 @@
 ---
-    topology_name: "example_topo"
+    topology_name: "ex_os_server"
     site: "qeos"
     resource_groups: 
       - 
