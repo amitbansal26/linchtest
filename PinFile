@@ -15,7 +15,7 @@ openstack:
           actions:
             - test.rb
         - name: testnode
-          type: node
+          type: nodejs
           context: true
           actions:
             - test.js
